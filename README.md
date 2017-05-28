@@ -17,11 +17,13 @@ I Made this project for help to the base of Pokemon Player of Nintendo 3DS, to d
 ## Installation
 
   -Install The Dependecies of Node.
+  
   -And Finally Run or Build.
 
 ## Contributors
 
 [Richi3F Project](https://github.com/richi3f/pokemon-team-planner) - High Inspiration and the pokemon Images.
+
 [Sindresorhus Project](https://github.com/sindresorhus/pokemon) - Json List of All Pokémon
 
 

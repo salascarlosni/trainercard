@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+@font-face {
+    font-family: 'Comfortaa', cursive;
+}
+
+#download {
+    display: block;
+    width: 115px;
+    height: auto;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+#trainerinfo{
+    background-color: #B8B8B8;
+    margin: 0 auto;
+    border: 2px solid gray;
+    border-radius: 5px;
+    left: 50px;
+}
+
+#insert{
+    display:block;
+    margin: 0 auto;
+}
+
+#segment {
+    height: 170px;
+}

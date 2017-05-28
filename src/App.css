@@ -1,0 +1,13 @@
+#title {
+    height: 80px;
+    background-color: #2196F3;
+    text-align:center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#title h2 {
+    color: white;
+}

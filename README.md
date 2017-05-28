@@ -8,7 +8,7 @@ With this App you can build a nice and beatiful Pokémon Trainer Card with your 
 
 ## Test the Project!
 
-[Test in Github Pages](https://github.com/facebook/react/wiki/Sites-Using-React)
+[Test in Github Pages](https://josesalasni.github.io/trainercard/)
 
 ## Motivation
 

@@ -4,7 +4,7 @@ Below you will find some information on how to perform common tasks.<br>
 
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+With this App you can build a nice and beatiful Pokémon Trainer Card with your favorite trainer, and your Pokémon Team, In an easy and fast way. This Project was builted using React.js, and Semantic-Ui for React. 
 
 ## Test the Project!
 

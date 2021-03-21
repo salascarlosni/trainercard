@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Input,Button,Label,Grid,Column,Segment } from 'semantic-ui-react' ;
+import { Input,Button,Label,Grid,Segment } from 'semantic-ui-react' ;
 import './Tabular.css';
 
 class TrainerInfo extends Component {
